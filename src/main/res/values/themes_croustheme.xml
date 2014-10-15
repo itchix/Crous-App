@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="CrousTheme" parent="@style/_CrousTheme"/>
+
+  <style name="_CrousTheme" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextStyle">@style/EditTextCrousTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonCrousTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonCrousTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarCrousTheme</item>
+
+    <item name="android:progressBarStyleLarge">@style/ProgressBarLargeCrousTheme</item>
+
+  </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="action_sign_in">Connexion</string>
+    <string name="action_sign_in_short">Connexion</string>
+    <string name="prompt_email">Numéro porteur</string>
+    <string name="prompt_password">Mot de passe</string>
+
+    <string name="error_invalid_email">Numéro invalide</string>
+    <string name="error_invalid_password">Mot de passe court</string>
+    <string name="error_incorrect_password">Mot de passe invalide</string>
+    <string name="error_field_required">Champs requis</string>
+</resources>
